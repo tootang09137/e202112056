@@ -6,6 +6,7 @@ public class Main {
     System.out.println("Lim minji");
     World.run();
     World.run2();
+    Hello.run();
   }
 
 }
